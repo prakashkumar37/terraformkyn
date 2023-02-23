@@ -1,3 +1,3 @@
 variable "rgname" {
-    default = "enter the resoure name"
+    default = "newrg"
 }
