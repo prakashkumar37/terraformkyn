@@ -7,3 +7,9 @@ resource "azurerm_resource_group" "myname" {
     location = "eastus"
   
 }
+
+resource "azurerm_resource_group" "myname2" {
+    name = "terraformcoudrg"
+    location = "eastus"
+  
+}
